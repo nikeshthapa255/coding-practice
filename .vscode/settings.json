@@ -1,0 +1,32 @@
+{
+    "editor.quickSuggestions": {
+        "comments": "off",
+        "strings": "off",
+        "other": "off"
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.underline": false,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "comment",
+                    "keyword",
+                    "variable",
+                    "variable.parameter",
+                    "string",
+                    "number",
+                    "storage"
+                ],
+                "settings": {
+                    "foreground": "#ffffff"
+                }
+            }
+        ]
+    },
+    "editor.lightbulb.enabled": false,
+    "editor.snippetSuggestions": "none",
+    "editor.formatOnType": false,
+    "editor.formatOnPaste": false,
+    "editor.minimap.enabled": false
+}
