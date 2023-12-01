@@ -17,3 +17,14 @@
     - quick learner
 7. Ask more questions
 8. Don't miss silly edge cases like - if empty case, equals to count case.
+
+
+- work on implementation thought or basic pointer and then approach the problem
+    - ambiguities- till what level should i look for sudo code
+
+- write a working solution with test cases only
+
+- learn how to create test cases 
+    - edge cases - 
+    - one averge or long cases that will test all my working cases
+

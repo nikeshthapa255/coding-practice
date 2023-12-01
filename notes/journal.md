@@ -1,0 +1,2 @@
+- DONT PANIC 
+    - try to think for relations/ simple solutions ex - in odd even jumps relation for a[i]<=a[j], sorted by index, how to find the i = j, i look for stack and look for each value, but instead I should have looked for if last index is greater than current one than there is some relation there that for next also prev one in stack is always bigger than the next index in stack.

@@ -1,8 +1,8 @@
 {
     "editor.quickSuggestions": {
-        "comments": "off",
-        "strings": "off",
-        "other": "off"
+        "comments": false,
+        "strings": false,
+        "other": false
     },
     "editor.suggestOnTriggerCharacters": false,
     "editor.underline": false,
@@ -28,5 +28,34 @@
     "editor.snippetSuggestions": "none",
     "editor.formatOnType": false,
     "editor.formatOnPaste": false,
-    "editor.minimap.enabled": false
+    "editor.minimap.enabled": false,
+    "editor.hover.enabled": false, // Disables hover tooltips
+    "editor.parameterHints.enabled": false, // Disables parameter hints
+    "editor.autoClosingBrackets": "never", // Disables auto-closing of brackets
+    "editor.autoClosingQuotes": "never", // Disables auto-closing of quotes
+    "editor.autoSurround": "never", // Disables auto-surrounding
+    "editor.autoIndent": "none", // Disables automatic indentation
+    "editor.suggest.showKeywords": false, // Disables keyword suggestions
+    "editor.suggest.showSnippets": false, // Disables snippet suggestions
+    "editor.showUnused": false,
+    "editor.showDeprecated": false,
+    "problems.decorations.enabled": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.overviewRulerBorder": false,
+    "editor.overviewRulerLanes": 0,
+    "workbench.editor.showIcons": false,
+    "editor.renderLineHighlight": "none",
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false,
+    "editor.renderIndentGuides": false,
+    "editor.codeLens": false,
+    "editor.matchBrackets": "never",
+    "editor.occurrencesHighlight": false,
+    "editor.selectionHighlight": false,
+    "editor.wordWrap": "off",
+    "editor.guides.bracketPairs": false,
+    "editor.guides.indentation": false,
+    "editor.guides.highlightActiveIndentation": false,
+    "editor.guides.highlightActiveBracketPair": false,
+    "editor.guides.bracketPairsHorizontal": false
 }
