@@ -47,7 +47,6 @@
     "editor.renderLineHighlight": "none",
     "editor.renderWhitespace": "none",
     "editor.renderControlCharacters": false,
-    "editor.renderIndentGuides": false,
     "editor.codeLens": false,
     "editor.matchBrackets": "never",
     "editor.occurrencesHighlight": false,
