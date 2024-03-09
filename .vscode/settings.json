@@ -24,7 +24,7 @@
             }
         ]
     },
-    "editor.lightbulb.enabled": false,
+    "editor.lightbulb.enabled": "off",
     "editor.snippetSuggestions": "none",
     "editor.formatOnType": false,
     "editor.formatOnPaste": false,
@@ -49,7 +49,7 @@
     "editor.renderControlCharacters": false,
     "editor.codeLens": false,
     "editor.matchBrackets": "never",
-    "editor.occurrencesHighlight": false,
+    "editor.occurrencesHighlight": "off",
     "editor.selectionHighlight": false,
     "editor.wordWrap": "off",
     "editor.guides.bracketPairs": false,
