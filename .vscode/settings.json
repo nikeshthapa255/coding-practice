@@ -34,7 +34,7 @@
     "editor.autoClosingBrackets": "never", // Disables auto-closing of brackets
     "editor.autoClosingQuotes": "never", // Disables auto-closing of quotes
     "editor.autoSurround": "never", // Disables auto-surrounding
-    "editor.autoIndent": "none", // Disables automatic indentation
+    "editor.autoIndent": "full", // Disables automatic indentation
     "editor.suggest.showKeywords": false, // Disables keyword suggestions
     "editor.suggest.showSnippets": false, // Disables snippet suggestions
     "editor.showUnused": false,
